@@ -1,3 +1,4 @@
 ---
 title: "Exercise 5. Inline HTML"
 ---
+First part of the sentence.<br>Second part on a new line.
