@@ -9,5 +9,82 @@
       "GitHub",
       "Overview"
     ]
+  },
+  {
+    "objectID": "pages/4_images_videos_documents.html",
+    "href": "pages/4_images_videos_documents.html",
+    "title": "Exercise 4. Images, videos and documents",
+    "section": "",
+    "text": "University of Exeter logo",
+    "crumbs": [
+      "GitHub",
+      "Exercise 4. Images, videos and documents"
+    ]
+  },
+  {
+    "objectID": "pages/5_inline_html.html",
+    "href": "pages/5_inline_html.html",
+    "title": "Exercise 5. Inline HTML",
+    "section": "",
+    "text": "First part of the sentence.Second part on a new line.",
+    "crumbs": [
+      "GitHub",
+      "Exercise 5. Inline HTML"
+    ]
+  },
+  {
+    "objectID": "pages/2_markdown_basics.html",
+    "href": "pages/2_markdown_basics.html",
+    "title": "Exercise 2. Markdown basics",
+    "section": "",
+    "text": "Bullet point 1\nBullet point 2\n\nBullet point 2a\nBullet point 2b\n\n\n3 Bullet point 3\n[] Tick\n[x] Already ticked\n\nThis should be indented\n\nUniversity of Exeter\nhttps://www.exeter.ac.uk\n\n\n\nColumn1\nColumn2\n\n\n\n\nA\nB\n\n\nC\nD\n\n\nE\nF",
+    "crumbs": [
+      "GitHub",
+      "Exercise 2. Markdown basics"
+    ]
+  },
+  {
+    "objectID": "pages/2_markdown_basics.html#heading-level-2",
+    "href": "pages/2_markdown_basics.html#heading-level-2",
+    "title": "Exercise 2. Markdown basics",
+    "section": "",
+    "text": "Bullet point 1\nBullet point 2\n\nBullet point 2a\nBullet point 2b\n\n\n3 Bullet point 3\n[] Tick\n[x] Already ticked\n\nThis should be indented\n\nUniversity of Exeter\nhttps://www.exeter.ac.uk\n\n\n\nColumn1\nColumn2\n\n\n\n\nA\nB\n\n\nC\nD\n\n\nE\nF",
+    "crumbs": [
+      "GitHub",
+      "Exercise 2. Markdown basics"
+    ]
+  },
+  {
+    "objectID": "pages/3_quarto_features.html",
+    "href": "pages/3_quarto_features.html",
+    "title": "Exercise 3. Quarto features",
+    "section": "",
+    "text": "Note\n\n\n\nThis is a callout. You can use it to draw attention to important information.\nHere is some text with a footnote.1",
+    "crumbs": [
+      "GitHub",
+      "Exercise 3. Quarto features"
+    ]
+  },
+  {
+    "objectID": "pages/3_quarto_features.html#footnotes",
+    "href": "pages/3_quarto_features.html#footnotes",
+    "title": "Exercise 3. Quarto features",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is the content of the footnote.↩︎",
+    "crumbs": [
+      "GitHub",
+      "Exercise 3. Quarto features"
+    ]
+  },
+  {
+    "objectID": "pages/1_making_a_change.html",
+    "href": "pages/1_making_a_change.html",
+    "title": "Exercise 1. Making a change",
+    "section": "",
+    "text": "Here is a sentence.\nAnd here is another.",
+    "crumbs": [
+      "GitHub",
+      "Exercise 1. Making a change"
+    ]
   }
 ]
