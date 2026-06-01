@@ -1,3 +1,36 @@
 ---
 title: "Exercise 2. Markdown basics"
 ---
+# Heading level 1
+
+***
+
+## Heading *level* 2
+
+### Heading **level** 3
+
+#### Heading level 4
+
+1. Bullet point 1
+
+2. Bullet point 2
+    a. Bullet point 2a
+    b. Bullet point 2b
+
+3 Bullet point 3
+
+[] Tick
+
+[x] Already ticked
+
+> This should be indented
+
+[University of Exeter](https://www.exeter.ac.uk)
+
+<https://www.exeter.ac.uk>
+
+| Column1 | Column2 |
+| - | - |
+| A | B |
+| C | D |
+| E | F |
